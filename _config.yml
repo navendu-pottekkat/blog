@@ -10,7 +10,7 @@ description: I write stuff!
 author: Navendu
 
 # --- List of links in the navigation bar --- #
-
+nav-short: true
 navbar-links:
   About Me: "aboutme"
   Tech Blog: "https://dsbootcamp.com"
