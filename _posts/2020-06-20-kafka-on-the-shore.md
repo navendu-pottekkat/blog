@@ -14,4 +14,6 @@ Like in most Murakami novels, the book transports you to this magical alternativ
 
 The plot revolves around the two characters Kafka and Nakata whose stories converge as the book unravels. The 15 year old Kafka, leaves his home from his father, a famous sculptor, with a carefully packed backpack to escape from a ghastly prophecy. Whereas Nakata is an old man in his 60s- who gained an unusual power to talk with cats from a childhood accident, robbing him of his memory and ability to read- who lives on his government subsidy and small earnings from tracking lost cats.
 
+![Kafka on the Shore](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1539318846i/26436957._SX540_.png)
+
 These seemingly disconnected characters are put into a surreal adventure with fish raining from the sky, soldiers unaged since the World War and love sick ghosts which string together to form a beautiful, dreamlike masterpiece.
