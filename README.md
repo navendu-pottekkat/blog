@@ -10,3 +10,7 @@ The site is live at https://blog.navendu.me
 I explore the line between an Artificial Intelligence Engineer and his Naturally Stupid alter-ego.
 
 This theme is created by [beautiful-jekyll](https://beautifuljekyll.com/)
+
+## Recent Posts
+
+#### Haruki Murakami's "Kafka on the Shore" - Book Review [(Link)](https://blog.navendu.me/2020-06-20-kafka-on-the-shore/)
